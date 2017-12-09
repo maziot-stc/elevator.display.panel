@@ -1,0 +1,16 @@
+﻿# 这是Git的忽略文件
+
+# 忽略Circuit目录下除了匹配*.pdsprj格式的其他文件
+/Circuit/*
+!/Circuit/*.DSN
+
+# 忽略Listing下所有文件
+/Listing/*
+
+# 忽略Output下所有文件
+/Output/*
+
+# 忽略Project目录下除*.uvopt和*.uvproj格式的其他文件
+/Project/*
+!/Project/*.uvopt
+!/Project/*.uvproj
