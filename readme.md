@@ -6,7 +6,7 @@
 通过用户按楼层对应按键，面板会随着电梯的升降实时的显示当前得楼层位置。
 
 ## 电梯显示面板效果
-![image](https://github.com/mz8023yt/elevator-display-panel/blob/master/Image/run.gif)
+![image](https://github.com/stc-mcu/elevator.display.panel/blob/master/Image/run.gif?raw=true)
 
 ## 功能介绍
 本项目使用 8 个按键模拟电梯中的楼层按键，这 8 个按键分别为：
